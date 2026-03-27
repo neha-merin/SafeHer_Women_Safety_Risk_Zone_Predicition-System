@@ -3,7 +3,7 @@
 SafeHer is a data-driven web application designed to enhance women’s safety by analyzing crime data, identifying high-risk zones, and recommending safer routes using intelligent risk analysis.
 
 ---
-
+ 
 ## 📌 Project Overview
 
 The system analyzes crime datasets and transforms raw data into meaningful safety insights.
